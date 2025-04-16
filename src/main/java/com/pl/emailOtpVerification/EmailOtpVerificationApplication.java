@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EmailOtpVerificationApplication {
 
 	// lê văn tú - test github-jira
+	// lê văn tú - test github-jira
 	
 	public static void main(String[] args) {
 		SpringApplication.run(EmailOtpVerificationApplication.class, args);
